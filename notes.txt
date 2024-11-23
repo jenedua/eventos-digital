@@ -1,0 +1,23 @@
+installar npm run all para rodar varios comandos ao mesmo tempo com workspaces
+```npm i npm-run-all
+```
+installar tsup para compilar o projeto typeScript em um unico arquivo
+```
+npm i -D tsup
+```
+installar uuid para gerar um id unico
+```
+npm i uuid
+```
+para usar o uuid no projeto precisa instalar o @types/uuid
+```
+npm i -D @types/uuid
+```
+criar modulo bd
+```nest g module bd
+```
+criar modulo prodvider
+```nest g  pr prisma --flat --no-spec
+```
+```
+```

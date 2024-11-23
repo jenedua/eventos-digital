@@ -7,7 +7,7 @@ export interface PaginaProps {
 export default function Pagina(props: PaginaProps) {
     return (
         <div className="
-            flex flex-col items-center bg-slate-300 py-10  min-h-screen
+            flex flex-col items-center bg-zinc-500 py-10  min-h-screen
             bg-[url('/background.png')] bg-cover 
             "
         >
