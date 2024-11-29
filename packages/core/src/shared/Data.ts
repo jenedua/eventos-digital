@@ -22,5 +22,5 @@ export default class Data {
     }
 
 }
-console.log(Data.formatar(new Date()));
-console.log(Data.desformatar('2024-11-20T09:59'));
+// console.log(Data.formatar(new Date()));
+// console.log(Data.desformatar('2024-11-20T09:59'));

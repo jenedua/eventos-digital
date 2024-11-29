@@ -8,3 +8,4 @@ export default class Id {
     }
 
 }
+console.log(Id.novo());
